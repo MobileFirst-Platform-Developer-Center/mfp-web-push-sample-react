@@ -27,7 +27,6 @@ function initWebPushSDK() {
   MFPPush.initialize({
     appId: "com.webpush",
     mfpContextRoot: "/mfp",
-    safariWebsitePushId: "web.com.herokuapp.mfp-web-push-test",
   });
 }
 

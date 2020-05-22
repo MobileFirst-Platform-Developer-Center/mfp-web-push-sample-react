@@ -5,7 +5,6 @@
   "private": true,
   "dependencies": {
     "http-proxy-middleware": "^0.20.0",
-    "ibm-mfp-web-push": "file:../ibm-mfp-web-push-main/ibm-mfp-web-push.tar.gz",
     "ibm-mfp-web-sdk": "^8.0.2020040409",
     "jssha": "^2.3.1",
     "react": "^16.8.6",
