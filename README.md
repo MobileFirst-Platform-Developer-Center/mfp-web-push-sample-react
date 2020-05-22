@@ -1,8 +1,5 @@
 # Sample React app for ibm-mfp-web-push
 
---
-
-
 
 ## How to use this?
 
