@@ -12,7 +12,7 @@ Download/Clone the repo:
 On MobileFirst console: 
 
 1. Register App with Application ID `com.webpush` with Web Platform. (You can choose any display name of your choice but Application ID should be com.webpush)
-2. Make sure you add **push.mobileclient, devices.read, devices.write, subscriptions.read** security checks under the Security Section.
+2. Make sure you add **push.mobileclient, devices.read, devices.write, subscriptions.write** security checks under the Security Section.
 
 ## Boom! Ready to start the App.
 
