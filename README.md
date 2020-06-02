@@ -13,6 +13,7 @@ On MobileFirst console:
 
 1. Register App with Application ID `com.webpush` with Web Platform. (You can choose any display name of your choice but Application ID should be com.webpush)
 2. Make sure you add **push.mobileclient, devices.read, devices.write, subscriptions.write** security checks under the Security Section.
+3. Add appropriate config for web platforms - chrome, firefox, safari
 
 ## Boom! Ready to start the App.
 
